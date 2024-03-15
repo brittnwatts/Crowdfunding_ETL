@@ -32,17 +32,23 @@ ETL Challenge:
 Our Steps: 
 
    1. Transform Data from Excel into DataFrames using:
+      
       a. Jupyter Notebook
+      
       b. Pandas
+      
       c. Regular Expression (regex)
       
    2. Create and prepare CSV files to upload into DataBase
       
-   3. Use CSV files to create Entity Relation Diagram (ERD) and table schema
-      a. Identify and label Primary Keys
-      b. Identify and label Foreign Keys
-      c. Identify and label column data types
+   3. Use CSV files to create Entity Relation Diagram (ERD) and table schema to:
       
+      a. Identify and label Primary Keys
+      
+      b. Identify and label Foreign Keys
+      
+      c. Identify and label column data types
+            
    4. Upload CSV files into Postgres database
       
 THANK YOU!!!!!
