@@ -4,6 +4,7 @@ This ReadMe serves to:
 
    A. Certify that this work is our own:
       Lakia White
+      
       Brittney Watts
       
    B. Specify code source and its location in the 'crowdfunding_ETL' repository
